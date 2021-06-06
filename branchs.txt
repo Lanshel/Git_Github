@@ -1,0 +1,8 @@
+Ветвление.
+git checkout -b  название ветки создает и открывает новую ветку.
+nano text.txt вносим изменения
+git add text.txt
+ commit -m "new"
+git checkout master открывает гл ветку (или вообще люб. ветку).
+git merge название ветки которую вливаем
+git push отправляем на github
